@@ -22,7 +22,7 @@ function draw(){
 
 
     noStroke()
-    fill(r,g,b)
+    fill(r,0,b)
     ellipse(x,y,d,d)
 }
 
